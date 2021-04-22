@@ -82,6 +82,7 @@ body {
     border-bottom: 1px solid rgba(255, 255, 255, .8);
     padding: 0px 40px;
     padding-bottom: 1px;
+    min-height: 1.5em;
 }
 
 .nav-bar-mobile .search input::placeholder {
@@ -246,9 +247,9 @@ body {
 .carrusel {
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    overflow-x: hidden;
-    overflow-y: hidden;
+    justify-content: start;
+    overflow: auto;
+    margin: auto 5px;
 }
 
 .historia {
