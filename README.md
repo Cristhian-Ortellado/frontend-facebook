@@ -1,2 +1,2 @@
 # frontend-facebook
-Copia del frontend de facebook utilizando htm5 y css3
+Imitation of the design of facebook to develop skills in the frontend
